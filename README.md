@@ -27,4 +27,4 @@ The system utilizes a "Fan-Out / Fan-In" orchestration pattern powered by LangGr
 
 ### Setup
 1. Clone the repository:
-   ```bash git clone [https://github.com/YOUR_USERNAME/bear-bull-researcher.git](https://github.com/YOUR_USERNAME/bear-bull-researcher.git)```
+   ```bash git clone [https://github.com/YOUR_USERNAME/bear-bull-researcher.git](https://github.com/shariqiqbal1/bear-bull-researcher.git)```
