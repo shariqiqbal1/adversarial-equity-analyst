@@ -26,5 +26,13 @@ The system utilizes a "Fan-Out / Fan-In" orchestration pattern powered by LangGr
 * Tavily API Key
 
 ### Setup
-Clone the repository:
+1 - Clone the repository:
    ```bash git clone https://github.com/shariqiqbal1/bear-bull-researcher.git```
+
+2 - Install dependencies: ```pip install -r requirements.txt```
+
+3 - Create a .env file in the root directory:
+```ANTHROPIC_API_KEY=sk-ant-...```
+```TAVILY_API_KEY=tvly-...```
+
+4 - Run locally: ```streamlit run app.py```
