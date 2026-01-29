@@ -3,7 +3,8 @@
 ## Overview
 This application implements an adversarial agentic workflow to generate balanced investment theses. Unlike standard retrieval-augmented generation (RAG) pipelines that summarize consensus, this system instantiates two distinct agents with conflicting optimization goals (Bull vs. Bear) to debate a specific asset. A third arbitrator agent synthesizes these opposing viewpoints into a final decision.
 
-![scr](https://github.com/user-attachments/assets/863aaad0-9680-4d92-947f-706f8e351686)
+![scr](https://github.com/user-attachments/assets/c92a7483-95db-4926-9725-372d54a3587c)
+
 
 ## Architecture
 The system utilizes a "Fan-Out / Fan-In" orchestration pattern powered by LangGraph:
