@@ -26,5 +26,5 @@ The system utilizes a "Fan-Out / Fan-In" orchestration pattern powered by LangGr
 * Tavily API Key
 
 ### Setup
-1. Clone the repository:
+Clone the repository:
    ```bash git clone https://github.com/shariqiqbal1/bear-bull-researcher.git```
