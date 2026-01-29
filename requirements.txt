@@ -1,0 +1,7 @@
+streamlit
+langchain-anthropic
+langchain-core
+langgraph
+yfinance
+tavily-python
+python-dotenv
